@@ -1,0 +1,37 @@
+{
+  "learner_id": "CQ-001",
+  "name": "Sample Learner",
+  "role_path": "ABAT/RBT Learner",
+  "certification_goal": "ABAT",
+  "missions_completed": 12,
+  "total_xp": 850,
+  "current_level": "Simulation Practitioner",
+  "badges": [
+    "Care Explorer",
+    "Reinforcement Apprentice",
+    "Simulation Practice Badge"
+  ],
+  "competency_scores": {
+    "empathy": 85,
+    "safety": 78,
+    "observation": 72,
+    "reinforcement": 88,
+    "communication": 80,
+    "documentation": 65
+  },
+  "readiness_score": 78,
+  "simulation_history": [
+    {
+      "scenario": "Transition Refusal",
+      "score": 82,
+      "date": "2026-05-14"
+    },
+    {
+      "scenario": "Sensory Overload",
+      "score": 76,
+      "date": "2026-05-14"
+    }
+  ],
+  "placement_status": "Not yet placed",
+  "recommended_next_step": "Complete documentation and supervision readiness missions"
+}
